@@ -19,5 +19,5 @@ license = "MIT"
 license-files = ["LICEN[CS]E*"]
 
 [project.urls]
-Github = "github.com"
+Github = "https://github.com/japlic/fluxpointpy"
 Discord = "discord.gg/fluxpoint"
