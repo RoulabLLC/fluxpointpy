@@ -24,7 +24,7 @@ pip install aiohttp
 ## Getting Started
 
 ```python
-from client import FluxpointClient
+from fluxpointpy.client import FluxpointClient
 from animal import animal
 
 async with FluxpointClient("YOUR_API_TOKEN") as client:
