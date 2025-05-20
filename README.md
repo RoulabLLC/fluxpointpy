@@ -18,7 +18,7 @@ Unofficial Python async wrapper for the [Fluxpoint API](https://fluxpoint.dev). 
 ## Installation
 
 ```bash
-pip install aiohttp
+pip install git+https://github.com/japlic/fluxpointpy
 ```
 
 ## Getting Started
