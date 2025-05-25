@@ -32,9 +32,9 @@ async with FluxpointClient("YOUR_API_TOKEN") as client:
     print(await api.cat())
 ```
 
-## Modules
+## Fluxpoint Api docs
 
-### `client.py`
+### [Fluxpoint Docs](https://docs.fluxpoint.dev/home/developer-tools/api)
 
 Handles aiohttp session and request helpers.
 
