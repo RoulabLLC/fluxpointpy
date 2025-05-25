@@ -114,7 +114,7 @@ MIT
 
 ## Contact
 
-For questions/issues join: [Fluxpoint Discord](https://discord.gg/fluxpoint) or contact repo author.
+For questions/issues join: [Support Discord](https://discord.gg/xQXmtj4yMC).
 
 ---
 
