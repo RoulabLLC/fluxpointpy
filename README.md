@@ -36,8 +36,6 @@ async with FluxpointClient("YOUR_API_TOKEN") as client:
 
 ### [Fluxpoint Docs](https://docs.fluxpoint.dev/home/developer-tools/api)
 
-Handles aiohttp session and request helpers.
-
 ### `animal.py`
 
 Real animal image endpoints (e.g. cat, dog, panda, etc).
